@@ -252,6 +252,12 @@ footer {
   justify-content: center;
   align-items: center;
 }
+.sticky-bottom {
+  overflow: hidden;
+  position: fixed !important; /*Lo siento :( tuve que usar el !important*/
+  bottom: 0px !important;
+width: 100%;}
+
 
 /*Lista de medias queries mas comunes 2024*/
 
