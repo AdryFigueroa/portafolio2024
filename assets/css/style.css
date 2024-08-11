@@ -5,6 +5,7 @@ html {
     sans-serif;
 }
 
+
 /*Barra de Navegacion*/
 
 #tituloA {
@@ -228,6 +229,7 @@ i {
 #enviar {
   margin-top: 10px;
 }
+ 
 
 /*Popover*/
 .popover{
